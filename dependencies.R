@@ -45,7 +45,7 @@ library(shinydashboard)
 library(shinyjs)
 library(shinyWidgets)
 
-setwd(dirname(rstudioapi::getSourceEditorContext()$path))
+#setwd(dirname(rstudioapi::getSourceEditorContext()$path))
 
 
 # FLUID DESIGN FUNCTION ---------------------------------------------------
